@@ -1,0 +1,750 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"avg",
+				"avgDoplhins"
+			],
+			[
+				"aan",
+				"aantal_ioc"
+			],
+			[
+				"re",
+				"results"
+			],
+			[
+				"si",
+				"siteEnt"
+			],
+			[
+				"site",
+				"siteEnt"
+			],
+			[
+				"ioc",
+				"iocDict"
+			],
+			[
+				"out",
+				"outputLijst"
+			],
+			[
+				"setde",
+				"setdefault"
+			],
+			[
+				"d",
+				"decryptMessage"
+			],
+			[
+				"hahs",
+				"hashWaarde"
+			],
+			[
+				"gr",
+				"grey"
+			],
+			[
+				"ent",
+				"entropy"
+			],
+			[
+				"vl",
+				"validSysmonCMD"
+			],
+			[
+				"val",
+				"validURLList"
+			],
+			[
+				"file",
+				"file_path"
+			],
+			[
+				"en",
+				"entropy"
+			],
+			[
+				"up",
+				"uploadRaw"
+			],
+			[
+				"bytes",
+				"bytesIn"
+			],
+			[
+				"ge",
+				"gevaarlijkCommando"
+			],
+			[
+				"ht",
+				"HttpResponse"
+			],
+			[
+				"con",
+				"convertSysmonFile"
+			],
+			[
+				"H",
+				"HttpResponse"
+			],
+			[
+				"cri",
+				"crispy-text"
+			],
+			[
+				"aantal",
+				"aantal_bronnen"
+			],
+			[
+				"aanta",
+				"aantal_uc"
+			],
+			[
+				"prog",
+				"program_lijst"
+			],
+			[
+				"ah",
+				"ah_aanbiedingen"
+			],
+			[
+				"url",
+				"url_lidl_folders"
+			],
+			[
+				"al",
+				"aldi_folder"
+			],
+			[
+				"aldi",
+				"aldi_folders"
+			],
+			[
+				"ald",
+				"aldi_koopjes"
+			],
+			[
+				"send",
+				"send_command"
+			],
+			[
+				"pro",
+				"producten_lijst"
+			],
+			[
+				"AddT",
+				"AddTechniek"
+			],
+			[
+				"get_",
+				"get_context_data"
+			],
+			[
+				"tijd_",
+				"tijd_tot_item"
+			],
+			[
+				"gebrui",
+				"gebruik_uc"
+			],
+			[
+				"voll",
+				"volledig"
+			],
+			[
+				"U",
+				"UseCase"
+			],
+			[
+				"LEVEL",
+				"LEVEL0"
+			],
+			[
+				"in",
+				"intput"
+			],
+			[
+				"Out",
+				"OutputDir"
+			],
+			[
+				"check",
+				"checkupdate"
+			],
+			[
+				"Crea",
+				"CreateCSV"
+			],
+			[
+				"Last",
+				"LastLogonDate"
+			],
+			[
+				"Func",
+				"FuncLevel"
+			],
+			[
+				"outp",
+				"OutputDir"
+			],
+			[
+				"Module",
+				"moduleArray"
+			],
+			[
+				"Add",
+				"AddMonths"
+			],
+			[
+				"S",
+				"Sources"
+			],
+			[
+				"RE",
+				"PATH_REGEX"
+			],
+			[
+				"pat",
+				"paths"
+			],
+			[
+				"reg",
+				"regkeys"
+			],
+			[
+				"lijst",
+				"lijst_regkeys"
+			],
+			[
+				"print",
+				"print_output"
+			],
+			[
+				"tijd",
+				"tijdslapen"
+			],
+			[
+				"john",
+				"johnBMI"
+			],
+			[
+				"pod",
+				"podcast_debug"
+			],
+			[
+				"curl",
+				"curl_header"
+			],
+			[
+				"eset",
+				"esetrss"
+			],
+			[
+				"URL",
+				"URL_EPI"
+			],
+			[
+				"dark",
+				"darknetrss"
+			],
+			[
+				"web",
+				"websockets"
+			],
+			[
+				"data",
+				"database_file"
+			],
+			[
+				"init",
+				"init_db"
+			],
+			[
+				"mx",
+				"max_cijfer"
+			],
+			[
+				"Proxy",
+				"Proxy2Server"
+			],
+			[
+				"from",
+				"from_host"
+			],
+			[
+				"spel",
+				"speler2_kaart_tabel"
+			],
+			[
+				"v",
+				"verwijder_een"
+			],
+			[
+				"s",
+				"speler1_kaart_tabel"
+			],
+			[
+				"speler1",
+				"speler1_kaart_tabel"
+			],
+			[
+				"speler",
+				"speler1_kaart_tabel"
+			],
+			[
+				"sp",
+				"speler2_kaart_tabel"
+			],
+			[
+				"kaar",
+				"kaart_gelijk"
+			],
+			[
+				"waa",
+				"waarde"
+			],
+			[
+				"n",
+				"nieuw_kaart"
+			],
+			[
+				"schud",
+				"schud_dek"
+			],
+			[
+				"alle",
+				"alle_kaarten"
+			],
+			[
+				"all",
+				"alle_kaarten"
+			],
+			[
+				"ran",
+				"ranken"
+			],
+			[
+				"I",
+				"INVITE_LINK"
+			],
+			[
+				"qu",
+				"quote"
+			],
+			[
+				"b",
+				"BeautifulSoup"
+			],
+			[
+				"pr",
+				"products"
+			],
+			[
+				"conn",
+				"connect_db"
+			],
+			[
+				"resu",
+				"result_strip_path"
+			],
+			[
+				"openb",
+				"open_bbestand"
+			],
+			[
+				"patt",
+				"pattern_smb"
+			],
+			[
+				"pdf",
+				"pdf_output_text"
+			],
+			[
+				"f",
+				"finditer"
+			],
+			[
+				"open",
+				"open_pdf"
+			],
+			[
+				"URL_",
+				"URL_openphish"
+			],
+			[
+				"cr",
+				"crtlijst2"
+			],
+			[
+				"crt",
+				"crtlijst"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"se",
+				"search_domain"
+			],
+			[
+				"get",
+				"get_ssl"
+			],
+			[
+				"UR",
+				"URL_talos_text"
+			],
+			[
+				"lij",
+				"lijst_eigen"
+			],
+			[
+				"lisjt",
+				"lijst_eigen"
+			],
+			[
+				"l",
+				"lijst_eigen"
+			],
+			[
+				"mijn",
+				"mijn_taart"
+			],
+			[
+				"sple",
+				"spelerkeuze"
+			],
+			[
+				"TELE",
+				"NOTIFY_TELE"
+			],
+			[
+				"ch",
+				"changed_records"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/blackhawk/baadie.github.io"
+	],
+	"file_history":
+	[
+		"/data/Study/javascript/jonas/section3/code-challenge1/index.html",
+		"/home/blackhawk/baadie.github.io/_posts/2022-07-22-pentest.md",
+		"/home/blackhawk/baadie.github.io/pentest/index.html",
+		"/home/blackhawk/baadie.github.io/.gitignore",
+		"/home/blackhawk/baadie.github.io/_posts/2015-01-01-tes.md",
+		"/home/blackhawk/baadie.github.io/CNAME",
+		"/home/blackhawk/baadie.github.io/_posts/2015-01-01-jek.md",
+		"/home/blackhawk/Documents/todo.txt",
+		"/home/blackhawk/baadie.github.io/categories.html",
+		"/home/blackhawk/baadie.github.io/index.html",
+		"/data/IT/scripts/hunt2/threat/hunting/models.py",
+		"/data/IT/scripts/hunt2/threat/hunting/views.py",
+		"/data/IT/scripts/hunt2/threat/hunting/modules/helper.py",
+		"/data/IT/scripts/hunt2/threat/hunting/modules/reportmaker.py",
+		"/data/IT/scripts/hunt2/threat/hunting/templates/layout.html",
+		"/data/IT/scripts/hunt2/threat/hunting/urls.py",
+		"/data/IT/scripts/hunt2/threat/hunting/templates/metrics/program_metric.html",
+		"/data/Phyxia/compile",
+		"/home/blackhawk/Downloads/Hash-Screen.txt",
+		"/home/blackhawk/.cache/kioexec/krun/8283_0/flag.txt",
+		"/home/blackhawk/Downloads/01-vlans.yaml",
+		"/home/blackhawk/Downloads/openvpn/TunnelBear Netherlands.ovpn",
+		"/data/IT/scripts/hunt2/README.txt",
+		"/data/IT/scripts/hunt2/threat/threat/settings.py",
+		"/data/IT/scripts/hunt2/threat/hunting/templates/update/hunt_update.html",
+		"/data/IT/scripts/hunt2/threat/hunting/templates/update/bron_update.html",
+		"/data/IT/scripts/hunt2/threat/hunting/forms.py",
+		"/data/IT/scripts/hunt2/requirements.txt",
+		"/data/IT/scripts/hunt2/threat/README",
+		"/mnt/nas/IT/scripts/googlenews.cfg",
+		"/mnt/nas/IT/scripts/googlenews.py",
+		"/mnt/nas/Study/azure/notes.txt",
+		"/data/IT/scripts/hunt2/threat/hunting/static/css/eigen_style.css",
+		"/data/IT/scripts/hunt2/threat/hunting/templates/forms/hunts_form.html",
+		"/data/IT/scripts/hunt2/threat/hunting/templates/metrics/hunt_metric.html",
+		"/data/IT/scripts/hunt2/threat/hunting/static/js/huntsioc.js",
+		"/data/IT/scripts/hunt2/threat/hunting/templates/index.html",
+		"/mnt/nas/IT/projects/dustin/function _robin_getRobinJs",
+		"/mnt/nas/IT/scripts/Proxy/tibia-proxy.py",
+		"/mnt/nas/IT/scripts/Proxy/proxy.py",
+		"/mnt/nas/IT/projects/dustin/untitled.js",
+		"/mnt/nas/IT/projects/lambal/note.txt",
+		"/mnt/nas/IT/Tibia/Phyxia/compile.txt",
+		"/mnt/nas/IT/Tibia/compile",
+		"/data/CTF/pico/2022/More Cookies/url.txt",
+		"/data/CTF/pico/2022/Some Assembly Required 1/url.txt",
+		"/data/CTF/pico/2022/Some Assembly Required 1/flag",
+		"/data/CTF/pico/2022/Some Assembly Required 1/script.js",
+		"/data/IT/scripts/hunt2/threat/hunting/static/style.css",
+		"/data/Study/azure/notes.txt",
+		"/mnt/nas/Study/web/notes.txt",
+		"/tmp/test.py",
+		"/data/IT/scripts/hunt2/threat/hunting/headers.py",
+		"/mnt/nas/Documenten/Huis/todo.txt",
+		"/data/IT/scripts/hunt2/threat/hunting/converts.py",
+		"/mnt/nas/IT/projects/Operation SEO/Info.txt",
+		"/mnt/nas/IT/projects/Operation SEO/script.py",
+		"/mnt/nas/IT/projects/Operation SEO/review.txt",
+		"/data/IT/scripts/hunt2/threat/hunting/static/config/convertInfo.cfg",
+		"/data/IT/scripts/hunt2/threat/hunting/helper.py",
+		"/data/IT/scripts/hunt2/threat/hunting/templates/converts/convert-sysmonID1.html",
+		"/mnt/nas/IT/scripts/hunt2/threat/hunting/views.py",
+		"/mnt/nas/https___github.com_Ridter_noPac.txt",
+		"/mnt/nas/Study/c programming/notes.txt",
+		"/mnt/nas/Study/c programming/Code/strings.c",
+		"/mnt/nas/Study/c programming/Code/file.c",
+		"/mnt/nas/Study/c programming/Code/struct.c",
+		"/mnt/nas/IT/scripts/hunt2/threat/hunting/models.py",
+		"/mnt/nas/IT/github/liveoverflow_youtube/0x10/variables.c",
+		"/mnt/nas/Documenten/Bas/Operation SEO/Info.txt",
+		"/data/IT/scripts/hunt2/threat/hunting/templates/converts/sysmon-output.html",
+		"/mnt/nas/Study/c programming/Code/print",
+		"/data/CTF/pico/2021/New Caesar/new_caesar.py",
+		"/data/CTF/pico/2021/shop/source",
+		"/data/CTF/pico/2021/ARMssembly 0/chall.S",
+		"/data/CTF/pico/2021/speeds and feeds/output.txt",
+		"/data/CTF/pico/2021/ARMssembly 0/note.txt",
+		"/data/CTF/pico/2021/Cookies/note.txt",
+		"/data/CTF/pico/2021/easy peasy/otp.py",
+		"/home/blackhawk/Downloads/UserGuide_Service_systemd.txt",
+		"/data/CTF/pico/2021/keygenme-py/keygenme-trial.py",
+		"/data/CTF/pico/2021/crackme-py/crackme.py",
+		"/data/CTF/pico/2021/Matryoshka doll/_dolls.png.extracted/base_images/_2_c.jpg.extracted/base_images/_3_c.jpg.extracted/base_images/_4_c.jpg.extracted/flag.txt",
+		"/data/CTF/pico/2021/Matryoshka doll/dolls.png",
+		"/data/IT/scripts/hunt2/threat/hunting/static/js/addioc.js",
+		"/data/IT/scripts/hunt2/threat/hunting/static/js/bootstrap.js",
+		"/data/IT/Overig/Vagrantfile",
+		"/home/blackhawk/keygenme-py/keygenme-trial.py",
+		"/data/IT/Overig/Vagrantfile-ubuntu",
+		"/data/IT/scripts/hunt2/threat/hunting/templates/converts/pcr-output.html",
+		"/data/IT/scripts/hunt2/threat/hunting/templates/converts/convert-pcr.html",
+		"/data/IT/scripts/hunt2/threat/hunting/templates/converts/convert-sysmon.html",
+		"/data/IT/scripts/hunt2/threat/hunting/tests.py",
+		"/data/IT/scripts/hunt2/threat/hunting/static/config/validDomains.txt",
+		"/data/IT/scripts/hunt2/threat/hunting/static/config/data.cfg",
+		"/data/IT/scripts/hunt2/threat/hunting/templates/metrics/uc_metric.html",
+		"/data/IT/scripts/hunt2/threat/hunting/templates/forms/bronnen_form.html",
+		"/data/IT/scripts/hunt2/threat/hunting/templates/forms/tools_form.html",
+		"/data/IT/scripts/hunt2/threat/hunting/templates/forms/technieken_form.html",
+		"/data/IT/scripts/hunt2/threat/hunting/templates/metrics/bron_metric.html",
+		"/tmp/leer.py",
+		"/home/blackhawk/Downloads/hoi.txt",
+		"/data/IT/scripts/hunt2/threat/hunting/templates/metrics/tools_metric.html",
+		"/data/IT/scripts/hunt2/threat/hunting/templates/metrics/techniek_metric.html",
+		"/data/IT/scripts/hunt2/threat/hunting/templates/hunt_metric.html",
+		"/data/IT/scripts/hunt2/threat/hunting/templates/bron_metric.html",
+		"/data/IT/scripts/hunt2/threat/hunting/templates/tools_form.html",
+		"/data/IT/scripts/hunt2/threat/hunting/templates/bronnen_form.html",
+		"/data/IT/scripts/hunt2/threat/hunting/templates/technieken_form.html",
+		"/data/IT/scripts/hunt2/threat/hunting/templates/program_form.html",
+		"/data/IT/scripts/hunt2/threat/templates/hunting/hunts_form.html",
+		"/data/IT/scripts/hunt2/threat/hunting/templates/tools_metric.html",
+		"/data/IT/scripts/hunt2/threat/hunting/templates/techniek_metric.html",
+		"/data/IT/scripts/hunt2/threat/hunting/templates/uc_metric.html",
+		"/data/IT/scripts/hunt2/threat/hunting/templates/bron_detail.html",
+		"/data/IT/scripts/hunt2/threat/hunting/templates/bron_update.html",
+		"/data/IT/scripts/hunt2/threat/hunting/static/bootstrap_datepicker_plus/js/datepicker-widget.js",
+		"/data/IT/scripts/hunt2/threat/hunting/templates/program_metric.html",
+		"/data/IT/scripts/babyfoon/geluid.py",
+		"/home/blackhawk/noise.rb",
+		"/home/blackhawk/baby.cfg",
+		"/home/blackhawk/geluid.py",
+		"/home/blackhawk/scripts/lijst/templates/beefree-f7jlpa329mo.html",
+		"/mnt/nas/IT/scripts/bood/bood.py",
+		"/home/blackhawk/scripts/lijst/bood.cfg",
+		"/home/blackhawk/scripts/lijst/bood.py",
+		"/home/blackhawk/scripts/lijst/templates/layout.html",
+		"/home/blackhawk/scripts/lijst/app.py"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 295.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/python3.sublime-build",
+	"project": "website.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/baadie.github.io/website.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 364.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 250.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
