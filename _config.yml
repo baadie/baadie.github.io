@@ -1,5 +1,5 @@
 title: bAADIE's Blog
-description: "A Jekyll Blog Theme For Hackers"
+description: "A blog about threat hunting and pentesting."
 author:
   name: "bAADIE"
   email: "admin@sbaadnewz.nl"
@@ -29,4 +29,4 @@ plugins:
 
 # Custom variables
 owner : "bAADIE"
-year : "2023"
+year : "2025"
